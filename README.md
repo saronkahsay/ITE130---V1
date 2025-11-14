@@ -1,7 +1,7 @@
 # Vad är Git?
-Git är ett verktyg som arbetar med ändring i kod. Du kan spara olika verisoner, gå tillbaka och göra ändringar samt vara fler personer som arbetar i ett projekt utan att skriva i varandras arbete. 
+Git är ett verktyg där man arbetar med ändring i filer. Du kan spara olika verisoner av filen, gå tillbaka och ändra samt vara fler personer som arbetar i ett projekt utan att skriva i varandras arbete. 
 ## Hur fungerar Git med Github
-Github är en plats onilne där du kan ladda upp dina Git projekt. Man använder Git för ändra samt spara och Github för att dela projekt och sammarbeta med andra användare. Man använder sig av olika funktioner som push och pull för att skicka upp ändringar (push) och hämta ner uppdateringar (pull). 
+Github är en plats onilne där du kan ladda upp dina Git projekt. Man använder Git för ändra samt spara filer medans Githubs syfte är att dela projekt och sammarbeta med andra. Man använder sig av olika funktioner som push och pull för att skicka upp ändringar (push) och hämta ner uppdateringar (pull). 
 
 ## Viktiga saker att tänka på: 
 * Git är ett verktyg, Github är en plats online
